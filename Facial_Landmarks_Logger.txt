@@ -1,0 +1,21 @@
+2019-04-27 14:50:53,599 INFO <module>(1)  Paramater Error : tuple index out of range
+2019-04-27 14:52:14,326 INFO <module>(3)  Paramater Value Error : None None None None None None
+2019-04-27 14:52:38,356 INFO <module>(1)  Paramater Value Error :
+2019-04-27 14:52:40,580 INFO <module>(1)  Paramater Value Error :
+2019-04-27 14:55:03,128 INFO getfaciallandmarks(295) Paramater Value Error
+2019-04-27 14:55:09,177 INFO getfaciallandmarks(295) Paramater Value Error
+2019-04-27 14:56:02,594 INFO getfaciallandmarks(295) Paramater Value Error
+2019-04-27 15:04:33,217 INFO getfaciallandmarks(295) Paramater Value Error
+2019-04-27 15:47:11,888 INFO getfaciallandmarks(305)  Paramater Error : decode() missing 1 required positional argument: 'output'
+2019-04-28 17:48:44,261 INFO getfaciallandmarks(307)  Paramater Error : 'JpegImageFile' object has no attribute 'read'
+2019-04-29 11:42:56,929 INFO getfaciallandmarks(331)  Paramater Error : Expecting ':' delimiter: line 1 column 13 (char 12)
+2019-04-29 11:45:48,913 INFO getfaciallandmarks(325) Paramater Value Error
+2019-04-29 11:45:48,916 INFO getfaciallandmarks(328) Authentication Error
+2019-04-29 11:46:32,728 INFO getfaciallandmarks(325) Paramater Value Error
+2019-04-29 11:47:10,799 INFO getfaciallandmarks(331)  Paramater Error : Expecting value: line 1 column 120 (char 119)
+2019-04-29 11:47:26,178 INFO getfaciallandmarks(331)  Paramater Error : Expecting value: line 1 column 120 (char 119)
+2019-04-29 11:49:36,742 INFO getfaciallandmarks(325) Paramater Value Error
+2019-04-29 11:50:10,919 INFO getfaciallandmarks(325) Paramater Value Error
+2019-04-29 11:58:17,443 INFO getfaciallandmarks(325) Paramater Value Error
+2019-04-29 11:58:17,445 INFO getfaciallandmarks(325) Paramater Value Error
+2019-04-29 11:58:17,473 INFO getfaciallandmarks(325) Paramater Value Error
